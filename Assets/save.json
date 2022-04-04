@@ -1,0 +1,32 @@
+{
+    "player": {
+        "health": 2,
+        "level": 3,
+        "coins": 10
+    },
+    "scene": 2,
+    "position": {
+        "x": -3.623767952376511e-13,
+        "y": 1.999985933303833,
+        "z": 0.29600027203559878
+    },
+    "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "activeCoins": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ]
+}
